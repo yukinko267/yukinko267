@@ -1,6 +1,6 @@
 <!-- GitHub usernameを変更 -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME" />
+  <img src="https://komarev.com/ghpvc/?username=yukinko267" />
 </div>
 
 ## 👋 Hi there
@@ -29,8 +29,8 @@ I'm an Information Science student in Japan.
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vue-dark" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vue-dark" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=yukinko267&show_icons=true&theme=vue-dark" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukinko267&layout=compact&theme=vue-dark" />
 </div>
 
 ---
